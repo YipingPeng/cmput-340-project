@@ -1,3 +1,3 @@
 # cmput-340-project
 
-gg
+This is a project of CMPUT340
